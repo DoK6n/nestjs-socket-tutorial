@@ -4,7 +4,7 @@
 
 ## Description
 
-Client $\leftrightarrow$ Server $\leftrightarrow$ Client
+Client ↔️ Server ↔️ Client
 
 ## Installation
 
