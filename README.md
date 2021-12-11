@@ -13,3 +13,4 @@ $ npm install
 
 $ npm run start:dev
 ```
+![image](https://user-images.githubusercontent.com/39258608/145682750-b7ec5a19-d4c9-4e01-ad63-4f6906f4bd26.png)
